@@ -1,1 +1,1 @@
-# hello-world
+# Application for calculating physical topological and structural parameters of p-channel MOSFET transistor which provides threshold voltage: Vt = -0.2 ± 0.1 V and channel current I = 1000mА ( Vg = 0V, Vd = 5V, Vs = 2V, Vsub =5V)
